@@ -1,0 +1,28 @@
+                                                                                                                                                          1,1          Todo
+  1   # Logs
+    1 logs
+    2 *.log
+    3 npm-debug.log*
+    4 yarn-debug.log*
+    5 yarn-error.log*
+    6 pnpm-debug.log*
+    7 lerna-debug.log*
+    8
+    9 node_modules
+   10# dist
+   11 dist-ssr
+   12 *.local
+   13
+   14 # Editor directories and files
+   15 .vscode/*
+   16 !.vscode/extensions.json
+   17 .idea
+   18 .DS_Store
+   19 *.suo
+   20 *.ntvs*
+   21 *.njsproj
+   22 *.sln
+   23 *.sw?
+~
+~
+~
